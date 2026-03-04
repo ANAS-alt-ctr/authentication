@@ -133,6 +133,7 @@ This project is a simple authentication system that:
 It is a good example for beginners learning how authentication works in FastAPI.
 
 I have face some errors:
+
 1.the login endpoint is not work 
 2. Authenticator is authenticate the user
 3.Not save the login history
