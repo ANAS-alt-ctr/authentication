@@ -1,0 +1,155 @@
+{
+    "registered_users": [
+        {
+            "id": 1,
+            "username": "moiz02",
+            "hashed_password": "$2b$12$I44uhnTwZ2b5wLY/FeZu5.jinePfxChzM9MF6doMvlVv7oi/1o5DK",
+            "name": "moiz M",
+            "age": 20,
+            "city": "karachi",
+            "email": "moiz@test.com",
+            "review": "SALAM ANAS riaz@",
+            "timestamp": "2026-03-04T06:48:56.233904",
+            "analyses": [
+                {
+                    "analysis_id": 1,
+                    "word_count": 3,
+                    "uppercase_letters": 9,
+                    "special_characters": 1
+                },
+                {
+                    "analysis_id": 2,
+                    "word_count": 3,
+                    "uppercase_letters": 9,
+                    "special_characters": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "niaz01",
+            "hashed_password": "$2b$12$FDmq60NdrK0.c3vxz5rFKOe9RR14b3d3W/tq.jwDEtAF3KaoyKVgO",
+            "name": "niaz",
+            "age": 40,
+            "city": "karachi",
+            "email": "niaz@test.com",
+            "review": "salAM anas101212!!!",
+            "timestamp": "2026-03-04T08:06:54.679390",
+            "analyses": [
+                {
+                    "analysis_id": 1,
+                    "word_count": 2,
+                    "uppercase_letters": 2,
+                    "special_characters": 3
+                }
+            ]
+        }
+    ],
+    "auth_history": [
+        {
+            "username": "testuser",
+            "event": "register",
+            "timestamp": "2026-03-04T06:41:37.262634"
+        },
+        {
+            "username": "testuser",
+            "event": "login",
+            "timestamp": "2026-03-04T06:41:54.966668"
+        },
+        {
+            "username": "testuser",
+            "event": "login",
+            "timestamp": "2026-03-04T06:42:33.923464"
+        },
+        {
+            "username": "moiz02",
+            "event": "register",
+            "timestamp": "2026-03-04T06:44:09.342902"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T06:44:54.251393"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T06:45:36.246224"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T06:45:54.198942"
+        },
+        {
+            "username": "moiz02",
+            "event": "register",
+            "timestamp": "2026-03-04T06:48:56.256843"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T06:49:05.703312"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T06:49:18.702125"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T07:12:12.683877"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T07:12:38.146060"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T07:32:27.869484"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T07:32:39.533629"
+        },
+        {
+            "username": "moiz02",
+            "event": "login",
+            "timestamp": "2026-03-04T07:34:16.648063"
+        },
+        {
+            "username": "Hassann06",
+            "event": "register",
+            "timestamp": "2026-03-04T07:45:32.704523"
+        },
+        {
+            "username": "Hassann06",
+            "event": "login",
+            "timestamp": "2026-03-04T07:45:56.501249"
+        },
+        {
+            "username": "Hassann06",
+            "event": "login",
+            "timestamp": "2026-03-04T07:47:02.673106"
+        },
+        {
+            "username": "niaz01",
+            "event": "register",
+            "timestamp": "2026-03-04T08:06:54.707972"
+        },
+        {
+            "username": "niaz01",
+            "event": "login",
+            "timestamp": "2026-03-04T08:07:20.857702"
+        },
+        {
+            "username": "niaz01",
+            "event": "login",
+            "timestamp": "2026-03-04T08:07:33.190910"
+        }
+    ]
+}
